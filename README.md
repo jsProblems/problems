@@ -1,4 +1,34 @@
 # problems
+ Mantiqiy amallar (if, else)
+1) A butun son berilgan. Jumlani rostlikka tekshiring: A son musbat
+2) A butun son berilgan. Jumlani rostlikka tekshiring: A toq son
+3) A butun son berilgan. Junlani rostlikka tekshiring: A juft son
+4) Ikkita butun son berilgan. Jumlani rostlikka tekshiring. M-s a > 0 && b > 0
+5) 3 ta son berilgan a,b,c. a bdan katta b c dan katta rostlikka tekshiring
+6) a, b, c, son berilgan. B son a va c sonlarni orasida yotadi.
+7) a, b sonlar berilgan sonlarni toq songa tekshiring.
+8) a,b,c,d sonlar berilgan barchasi musbat
+9) a,b,c sonlar berilgan kamida ikkitasi musbat berilgan
+10) hafta kunlari berilgan raqamga qarab hafta kunlarini nomini chiqaring
+11) Telefon nomer kodi orqali qaysi kompaniya ekanligini tekshiring
+12) Butun son berilgan agar son musbat bo'lsa unda sonni bittaga oshiring aks xolda 1taga kamaytiring
+13) Butun son berilgan agar son musbat bo'lsa sonni 3 ga oshiring manfiy bo'lsa unda 2ga kamaytiring
+14) Ikkita butun son berilgan kattasin aniqlovchi dastur tuzing
+15) 3 ta butun son berilgan eng kattasini aniqlovchi dastur tuzing
+16) 3 ta son berilgan eng kichikin aniqlovchi dastur tuzing
+17) Jinsga qarab rasm chiqivchi dastur tuzing!
+18) Bahoga qarab stependiyani aniqlovchi dastur tuzing
+19) Butun son berilgan shu songa qarab toq musbat, toq manfiy, juft musbat, juft manfiy deb chiqaruvchi dastur tuzing
+20) Yilga qarab yoshin aniqlovchi dastur tuzing
+21) 3 ta butun son berilgan jumlani rostlikkar tekshiring. A <= B <= C
+22) ikki butun son berilgan ikki sondan faqat 1tasi toq son hisoblanadi
+23) a,b,c sonlar berilgan har biri musbat son
+24) a,b,c sonlardan biri musbat son
+25) 3 xonali son berilgan har bir raqamlari har xil
+26) 3 xonali son berilgan raqamlari ketma ket o'sib boruvchi joylashgan
+27) Kompyuter nomiga qarab kompyuter summasini chiqaruvchi dastur yarating
+28) Sonlar berilgan shu sonlar ichidan faqat murakkab sonlarni chiqaruvchi dastur tuzing (for)![
+
 1) k va n butun son berilgan. K ni n marta chiqaruvchi dastur tuzing
 2) a, b sonlar beilgan. A b dan katta a va b orasidagi butun sonlarni chiqaruvchi dastur tuzing. A va B ni ozi ham chiqsin
 3) a,b sonlar berilgan a b dan katta a va b orasidagi barcha butun sonlarni kamayish tartibida chiqaring a va b kirmasin 
