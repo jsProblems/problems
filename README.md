@@ -80,5 +80,6 @@
 18) n butun son berilgan 1 sikldan foydalanib quydagi yigindini hisoblovchi dastur tuzing. 1!+2!+..+n!
 19) n butun son va x haqiqiy sonlar berilgan (n>0) Quydagi yig'indi hisoblang.1+x+x2/2!+x3/3!+..+xn/n!
 20) n va x sonlar berilgan 0 dan n gacha sonlar orasida x ga bo'linadigan sonlarni topuvchi dastur tuzing
-21) n va x sonlar berilgan quydagi yigindini topuvchi dastur tuzing. 1(1,2,3…x) + 2(1,2,3..x) + .. + n(1,2,3,..x)![image](https://user-images.githubusercontent.com/65053149/187047281-a8f8d170-4a71-4857-8dfa-02d9fac241c7.png)
+21) n va x sonlar berilgan quydagi yigindini topuvchi dastur tuzing. 1(1,2,3…x) + 2(1,2,3..x) + .. + n(1,2,3,..x)
+# switch case
 
