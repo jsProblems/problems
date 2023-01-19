@@ -27,8 +27,10 @@
 25) 3 xonali son berilgan har bir raqamlari har xil
 26) 3 xonali son berilgan raqamlari ketma ket o'sib boruvchi joylashgan
 27) Kompyuter nomiga qarab kompyuter summasini chiqaruvchi dastur yarating
-28) Sonlar berilgan shu sonlar ichidan faqat murakkab sonlarni chiqaruvchi dastur tuzing (for)![
-#For syntax 
+28) Sonlar berilgan shu sonlar ichidan faqat murakkab sonlarni chiqaruvchi dastur tuzing (for)!
+
+
+# For syntax 
 1) k va n butun son berilgan. K ni n marta chiqaruvchi dastur tuzing
 2) a, b sonlar beilgan. A b dan katta a va b orasidagi butun sonlarni chiqaruvchi dastur tuzing. A va B ni ozi ham chiqsin
 3) a,b sonlar berilgan a b dan katta a va b orasidagi barcha butun sonlarni kamayish tartibida chiqaring a va b kirmasin 
