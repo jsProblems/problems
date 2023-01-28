@@ -16,7 +16,7 @@
 14) Ikkita butun son berilgan kattasin aniqlovchi dastur tuzing
 15) 3 ta butun son berilgan eng kattasini aniqlovchi dastur tuzing
 16) 3 ta son berilgan eng kichikin aniqlovchi dastur tuzing
-17) Jinsga qarab rasm chiqivchi dastur tuzing!
+17) Jinsga qarab log chiqivchi dastur tuzing!
 18) Bahoga qarab stependiyani aniqlovchi dastur tuzing
 19) Butun son berilgan shu songa qarab toq musbat, toq manfiy, juft musbat, juft manfiy deb chiqaruvchi dastur tuzing
 20) Yilga qarab yoshin aniqlovchi dastur tuzing
