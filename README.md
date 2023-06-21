@@ -48,10 +48,7 @@
 15) n son berilgan n sonidan kamayish tartibida sonlar chiqarilsin
 16) n son berilgan 0 va ngacha sonlar orasida 5 ga karralisini tashlab o'tib ketuvchi dastur tuzing
 17) n butun son berilgan ngacha butun sonlarni ko'paytmasini topuvchi dastur tuzing
-18) n butun son berilgan 1 sikldan foydalanib quydagi yigindini hisoblovchi dastur tuzing. 1!+2!+..+n!
-19) n butun son va x haqiqiy sonlar berilgan (n>0) Quydagi yig'indi hisoblang.1+x+x2/2!+x3/3!+..+xn/n!
-20) n va x sonlar berilgan 0 dan n gacha sonlar orasida x ga bo'linadigan sonlarni topuvchi dastur tuzing
-21) n va x sonlar berilgan quydagi yigindini topuvchi dastur tuzing. 1(1,2,3…x) + 2(1,2,3..x) + .. + n(1,2,3,..x)!
+
 # Data types 
 1) Uzunligi L berilgan Undagi to'liq metrlar sonini aniqlovchi progrramm tuzing!
 2) Og'irligi M kg da berilgan Uning to'liq tonnalar sonini aniqlang. 1t = 1000kg
