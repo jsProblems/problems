@@ -40,7 +40,7 @@
 7) a,b sonlar berilgan. A dan b gacha barcha butun sonlarni yig'indisin topuvchi dastur yozing
 8) a,b sonlar berilgan. A dan b gacha barcha butun sonlarni ko'paytmasin topuvchi dastur yozing
 9) a,b sonlar berilgan a dan b gacha bo'lgan sonlarni kvadratlarini yig'indisin topuvchi dastur toping
-10) n soni berilgan quydagi yig'indini hisoblang. S = 1/1 + 1/2 + …. + 1/n
+10) 
 11) n soni berilgan shu soni ichidan toqlarin ko'ruvchi dastur yozing
 12) n soni berilgan shu sonlarni ichidan juftlarini koruvchi dastur yozing
 13) n soni berilgan shu son ichidan faqat murakkab sonlarni aniqlovchi dastur yozing
