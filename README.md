@@ -56,7 +56,7 @@
 4) Ikki xonali son berilgan uning o'nliklar xonasidagi va birliklar xonasida raqamini aniqlang!
 5) Ikki xonali son berilgan uning raqamlar yig'indisin topuvchi programma tuzing!
 6) Ikki xonali son berilgan Uning raqamlar ko'paytmasini topuvchi programma tuzing!
-7)
+ 
 8) Kun boshidan N sekund o'tdi kun boshidan necha minut, soat, o'tganligin aniqlang
 
 # switch case
