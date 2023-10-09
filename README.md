@@ -27,7 +27,6 @@
 25) 3 xonali son berilgan har bir raqamlari har xil
 26) 3 xonali son berilgan raqamlari ketma ket o'sib boruvchi joylashgan
 27) Kompyuter nomiga qarab kompyuter summasini chiqaruvchi dastur yarating
-28) Sonlar berilgan shu sonlar ichidan faqat murakkab sonlarni chiqaruvchi dastur tuzing (for)!
 
 
 # For syntax 
